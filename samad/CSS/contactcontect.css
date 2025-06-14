@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#cont{
+    width: 100%;
+    height: 400px;
+    background-color: #f2f2f2;
+    margin-top: 10px;
+}
+#contform{
+    padding-left: 50px;
+    width: 45%;
+    float: left;
+}
+#map{
+    width: 45%;
+    float: right;
+}
+#contform form{
+    padding-top: 20px;
+    width: 100%;
+}
+#contform form h4{
+    color: green;
+    text-align: center;
+    font-size: 25px;
+}
+#contform form input{
+    margin: 5px;
+    width: 400px;
+    height: 20px;
+}
+#contform form textarea{
+    margin: 5px;
+    width: 400px;
+    height: 250px;
+}

@@ -1,0 +1,79 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#fmain {
+  width: 100%;
+  height: 300px;
+  background: #2a7b9b;
+  background: linear-gradient(
+    90deg,
+    rgba(42, 123, 155, 1) 0%,
+    rgba(87, 199, 133, 1) 50%,
+    rgba(237, 221, 83, 1) 100%
+  );
+}
+
+#first{
+    width: 29%;
+    height: 250px;
+    padding-top: 10px;
+    padding-left: 10px;
+    float: left;
+}
+
+#first h5{
+    color: white;
+}
+
+#first p{
+    color: white;
+    text-align: justify;
+}
+
+#second{
+    width: 20%;
+    height: 250px;
+    padding-left: 20px;
+    padding-top: 20px;
+    float: left;
+}
+#second h4{
+    color: white;
+}
+#second ul{
+    list-style: none;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#second ul li{
+    margin-top: 5px;
+}
+#second ul li a{
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+#contantdetails{
+    width: 20%;
+    height: 250px;
+    float: left;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+#contantdetails h4{
+    color: white;
+    margin-bottom: 10px;
+}
+#contantdetails p{
+    color: white;
+    margin-top: 10px;
+}
+
+#vdiv{
+    width: 20%;
+    float: left;
+    padding-top: 50px;
+}
